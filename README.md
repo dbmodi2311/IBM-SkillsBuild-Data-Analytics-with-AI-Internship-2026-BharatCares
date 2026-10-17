@@ -1,4 +1,3 @@
-# IBM-SkillsBuild-Data-Analytics-with-AI-Internship-2026-BharatCares
 # AI-Powered Student Performance Analysis and Prediction System
 
 Data Analysis with AI internship project by **Dhruv (Modi Dhruv Bhaveshbhai)**.

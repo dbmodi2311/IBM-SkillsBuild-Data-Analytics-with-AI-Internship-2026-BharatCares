@@ -1,0 +1,13 @@
+# Tested with Python 3.12 (versions in comments were used for development).
+pandas>=2.2          # 3.0.2
+numpy>=1.26          # 2.4.4
+scipy>=1.11          # 1.17.1
+scikit-learn>=1.3    # 1.8.0
+matplotlib>=3.8      # 3.10.8
+seaborn>=0.13        # 0.13.2
+joblib>=1.3          # 1.5.3
+streamlit>=1.50      # 1.66.0
+jupyter>=1.0
+ipykernel>=6.0
+nbformat>=5.9
+pytest>=7.0          # 9.1.1
